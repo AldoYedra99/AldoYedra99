@@ -43,6 +43,12 @@
 <img src="https://metrics.lecoq.io/AldoYedra99?template=classic&languages=1&isocalendar=1&habits=1&activity=1&lines=1&achievements=1&base.indepth=true&base.hireable=true">
 </p>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AldoYedra99&theme=onedark&no-frame=true&margin-w=10">
+</p>
+
 ## 📊 Profile Statistics
 
  <div align=center>
