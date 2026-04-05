@@ -40,7 +40,7 @@
 <h2 align="center">🧠 GitHub Metrics</h2>
 
 <p align="center">
-<img src="https://metrics.lecoq.io/TU-USUARIO?template=classic&languages=1&isocalendar=1&habits=1&activity=1&lines=1&achievements=1&base.indepth=true&base.hireable=true">
+<img src="https://metrics.lecoq.io/AldoYedra99?template=classic&languages=1&isocalendar=1&habits=1&activity=1&lines=1&achievements=1&base.indepth=true&base.hireable=true">
 </p>
 
 ## 📊 Profile Statistics
