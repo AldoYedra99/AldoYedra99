@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Abdalrahman Alhamod
+  Hola, Soy Aldo Yedra
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -17,15 +17,14 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+-👨‍💻 Como ingeniero de software, aprendo y exploro constantemente nuevas tecnologías para mejorar mis habilidades.
+-💬 Mi serie favorita es Sillicon Valley.
+-🌱 Estoy profundizando en el aprendizaje autodidacta y la IA.
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Stack Tecnólogico
 
 #### 🔧 Languages
 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +35,7 @@
 
 #### 🖥️ Frameworks
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React]
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
