@@ -1,11 +1,7 @@
 <div align="center">
 
-<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=200&text=Aldo%20Yedra&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aldo%20Yedra&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
 
-</div>
-
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
 <h3 align="center">
