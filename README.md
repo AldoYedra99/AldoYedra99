@@ -24,16 +24,17 @@
 - 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
 
 
-## 🛠 &nbsp;Tech Stack
+<h2 align="center"> 🛠 Tech Stack</h2>
 
 #### 🔧 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,cpp)](https://skillicons.dev)
 
-#### 🖥️ Frameworks
+#### 🖥️ Frameworks & Librerias
 
+[![My Skills](https://skillicons.dev/icons?i=react,django,springboot)](https://skillicons.dev)
 
-#### 📚 Libraries
+#### 📚 Databases
 
 
 #### 🔧 Tools
