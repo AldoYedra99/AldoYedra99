@@ -41,7 +41,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/AldoYedra99/AldoYedra99/output/github-contribution-grid-snake.svg">
 </p>
 
 <h2 align="center">🧠 GitHub Metrics</h2>
