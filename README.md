@@ -26,7 +26,7 @@
 
 #### 🔧 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,pyhton,js,html,css,c++)](https://skillicons.dev)
 
 #### 🖥️ Frameworks
 
