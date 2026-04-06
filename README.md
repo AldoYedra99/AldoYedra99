@@ -56,3 +56,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/AldoYedra99/AldoYedra99/output/github-contribution-grid-snake.svg">
 </p>
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AldoYedra99&theme=react-dark">
+</p>
