@@ -38,5 +38,5 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 #### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,idea,linux,ubuntu,nodejs,postman,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,idea,linux,ubuntu,nodejs,postman,vite,vscode)](https://skillicons.dev)
 
