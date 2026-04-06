@@ -35,6 +35,7 @@
 
 #### 📚 Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 #### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,idea,linux,ubuntu,nodejs,postman,vite,vscode)](https://skillicons.dev)
