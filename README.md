@@ -19,30 +19,24 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 👨‍💻 Como ingeniero de software, aprendo y exploro constantemente nuevas tecnologías para mejorar mis habilidades.
+- 💬 Egresado de la carrera de Ing en Sistemas Computacionales en el Tecnológico de México Campus Tláhuac.
+- 🌱 Estoy profundizando en el aprendizaje autodidacta.
 
 
 <h2 align="center"> 🛠 Tech Stack</h2>
 
-<p align="center">🔧 Languages
+🔧 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,cpp,php)](https://skillicons.dev)
 
 #### 🖥️ Frameworks & Librerias
 
-[![My Skills](https://skillicons.dev/icons?i=react,django,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django,spring,express,nextjs,angular)](https://skillicons.dev)
 
 #### 📚 Databases
-
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 #### 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,idea,linux,ubuntu,nodejs,postman,vite,vscode)](https://skillicons.dev)
 
-</p>
-
-------
-
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
