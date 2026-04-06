@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aldo%20Jonathan%20Yedra%20Tapia&font=Fira%20Code&fontSize=30&fontAlignY=40&color=gradient&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aldo%20Jonathan%20Yedra%20Tapia&font=Source%20Code%20Pro&fontSize=40&fontAlignY=40&color=gradient&animation=fadeIn"/>
 
 </div>
 
 <h3 align="center">
-  Hola, soy Aldo Yedra
+  Hola, soy el Ing Aldo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,7 +14,7 @@
   </p>
 
 
-- 👨‍💻 Como ingeniero de software, aprendo y exploro constantemente nuevas tecnologías para mejorar mis habilidades.
+- 👨‍💻 Tengo 26 años y como ingeniero de software, aprendo y exploro constantemente nuevas tecnologías para mejorar mis habilidades.
 - 💬 Egresado de la carrera de Ing en Sistemas Computacionales en el Tecnológico de México Campus Tláhuac.
 - 🌱 Estoy profundizando en el aprendizaje autodidacta.
 
