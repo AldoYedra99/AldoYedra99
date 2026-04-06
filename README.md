@@ -38,17 +38,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AldoYedra99&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldoYedra99&layout=compact&theme=tokyonight">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AldoYedra99&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldoYedra99&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AldoYedra99&theme=onedark&no-frame=true">
+<img src="https://github-profile-trophy.vercel.app/?username=AldoYedra99&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
