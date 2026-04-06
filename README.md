@@ -14,9 +14,13 @@
   </p>
 
 
-- 👨‍💻 Tengo 26 años y como ingeniero de software, aprendo y exploro constantemente nuevas tecnologías para mejorar mis habilidades.
-- 💬 Egresado de la carrera de Ing en Sistemas Computacionales en el Tecnológico de México Campus Tláhuac.
-- 🌱 Estoy profundizando en el aprendizaje autodidacta.
+# 👨‍💻 About Me
+
+- 🎓 Computer Systems Engineering
+- 💻 Backend Developer in training
+- 📊 Learning Data Analysis
+- 🚀 Interested in Startups & SaaS
+- ⚡ Always learning new technologies
 
 
 <h2 align="center"> 🛠 Tech Stack</h2>
