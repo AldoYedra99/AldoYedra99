@@ -10,14 +10,9 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=27F568&center=true&vCenter=true&width=700&lines=Backend+Developer;React+%7C+Java+%7C+Python+%7C+SQL+%7C+MongoDB;Data+Analysis+Learner+%7C+Databse;Building+Projects+Every+Day;Future+SaaS+Builder">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=27F568&center=true&vCenter=true&width=700&lines=Backend+Developer;React+%7C+Java+%7C+Python+%7C+SQL+%7C+MongoDB;Data+Analysis+Learner+%7C+Database;Building+Projects+Every+Day;Future+SaaS+Builder">
   </p>
 
-<p align="center">
-
-</p>
-
----
 
 - 👨‍💻 Como ingeniero de software, aprendo y exploro constantemente nuevas tecnologías para mejorar mis habilidades.
 - 💬 Egresado de la carrera de Ing en Sistemas Computacionales en el Tecnológico de México Campus Tláhuac.
@@ -40,3 +35,24 @@
 #### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,idea,linux,ubuntu,nodejs,postman,vite,vscode)](https://skillicons.dev)
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AldoYedra99&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldoYedra99&layout=compact&theme=tokyonight">
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AldoYedra99&theme=onedark&no-frame=true">
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AldoYedra99/AldoYedra99/output/github-contribution-grid-snake.svg">
+</p>
