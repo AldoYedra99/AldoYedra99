@@ -1,109 +1,63 @@
-<h1 align="center">Hi 👋, I'm Aldo Yedra</h1>
-<h3 align="center">Backend Developer | Data Enthusiast | Tech Explorer</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aldo%20Jonathan%20Yedra%20Tapia&font=Source%20Code%20Pro&fontSize=40&fontAlignY=40&color=gradient&animation=fadeIn"/>
+
+</div>
+
+<h3 align="center">
+  Hola, soy el Ing Aldo
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-Building scalable systems, exploring data, and learning every day.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=27F568&center=true&vCenter=true&width=700&lines=Backend+Developer;React+%7C+Java+%7C+Python+%7C+SQL+%7C+MongoDB;Data+Analysis+Learner+%7C+Database;Building+Projects+Every+Day;Future+SaaS+Builder">
+  </p>
 
----
 
-# 👨‍💻 About Me
+- 👨‍💻 Tengo 26 años y como ingeniero de software, aprendo y exploro constantemente nuevas tecnologías para mejorar mis habilidades.
+- 💬 Egresado de la carrera de Ing en Sistemas Computacionales en el Tecnológico de México Campus Tláhuac.
+- 🌱 Estoy profundizando en el aprendizaje autodidacta.
 
-- 🎓 Computer Systems Engineering
-- 💻 Backend Developer in training
-- 📊 Learning Data Analysis
-- 🚀 Interested in Startups & SaaS
-- ⚡ Always learning new technologies
 
----
+<h2 align="center"> 🛠 Tech Stack</h2>
 
-# 🛠 Tech Stack
+🔧 Languages
 
-## 🔧 Languages
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,cpp,php)](https://skillicons.dev)
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,cpp" />
-</p>
+#### 🖥️ Frameworks & Librerias
 
----
+[![My Skills](https://skillicons.dev/icons?i=react,django,spring,express,nextjs,angular)](https://skillicons.dev)
 
-## 🖥 Frameworks & Libraries
+#### 📚 Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,django,spring,nextjs" />
-</p>
+#### 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,idea,linux,ubuntu,nodejs,postman,vite,vscode)](https://skillicons.dev)
 
----
-
-## 📚 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
----
-
-## 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,ubuntu" />
-</p>
-
----
-
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AldoYedra99&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldoYedra99&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AldoYedra99&show_icons=true&theme=tokyonight"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AldoYedra99&theme=tokyonight&no-frame=true&margin-w=15"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AldoYedra99&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 📈 Activity Graph
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AldoYedra99&theme=react-dark"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=AldoYedra99&theme=tokyonight"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/AldoYedra99/AldoYedra99/output/github-contribution-grid-snake.svg">
-
 </p>
-
----
-
-# 📫 Connect with me
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-
-<a href="https://github.com/AldoYedra99">
-<img src="https://img.shields.io/badge/GitHub-AldoYedra99-black?style=for-the-badge&logo=github">
-</a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AldoYedra99&theme=react-dark">
 </p>
-
----
-
-⭐ *"Always learning, always building."*
