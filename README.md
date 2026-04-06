@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aldo%20Jonathan%20Yedra%20Tapia&fontConsolas=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aldo%20Jonathan%20Yedra%20Tapia&font=Fira%20Code&fontSize=30&fontAlignY=40&color=gradient&animation=fadeIn"/>
 
 </div>
 
